@@ -4,7 +4,7 @@
 Unconventional data science and analytics professional with over ten years of practical business experience in insurance, banking, and retail industries. Comprehensive background includes roles in management, sales, customer service, purchasing, marketing, and database administration. Known for inventive problem-solving and adeptness in both independent and collaborative settings. Eager to contribute to a forward-thinking organization that fosters growth through supportive mentorship from established data professionals.
 
 ## Education	
-**Master of Science, Data Science**
+**Master of Science, Data Science**  
 New England College, Henniker, NH  
 • Conducted incident analysis for Pat’s Peak Ski Patrol identifying critical points of intervention and presenting insights into patient care and mountain safety  
 
