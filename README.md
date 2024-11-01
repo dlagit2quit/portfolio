@@ -6,7 +6,7 @@ Unconventional data science and analytics professional with over ten years of pr
 ## Education	
 **Master of Science, Data Science**  
 New England College, Henniker, NH  
-• Conducted incident analysis for Pat’s Peak Ski Patrol identifying critical points of intervention and presenting insights into patient care and mountain safety  
+- Conducted incident analysis for Pat’s Peak Ski Patrol identifying critical points of intervention and presenting insights into patient care and mountain safety  
 
 **Bachelor of Science, Marketing**  
 Plymouth State University, Plymouth, NH  
@@ -19,9 +19,9 @@ Plymouth State University, Plymouth, NH
 
 ## Technical Skills
 **Programming Languages**  
-**R:** RStudio, RMarkdown, tidyverse (dplyr, ggplot, tidyr, readr, stringr, purr, forcats, lubridate), scales, broom, caret, randomForest, xgboost, glmnet  
-**Python:** IDLE, Pandas, Numpy, SciPy, Matplotlib, Seaborn, scikit-learn  
-**SQL:** MySQL, PostgreSQL
+- **R:** RStudio, RMarkdown, tidyverse (dplyr, ggplot, tidyr, readr, stringr, purr, forcats, lubridate), scales, broom, caret, randomForest, xgboost, glmnet  
+- **Python:** IDLE, Pandas, Numpy, SciPy, Matplotlib, Seaborn, scikit-learn  
+- **SQL:** MySQL, PostgreSQL
 
 **Data Visualization Tools**  
 Power BI, Tableau, Spotfire
